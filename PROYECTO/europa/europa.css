@@ -226,11 +226,11 @@ h1{
 }
 
 .pie{
-
+    
     margin-top: 76px;
     height: 150px;
     display: flex;
-    background-color: #dac489;
+    background-color: pink;
     align-items: center;
     flex-wrap: nowrap;
     justify-content: space-around;
