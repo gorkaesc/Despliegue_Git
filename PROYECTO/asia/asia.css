@@ -7,7 +7,7 @@ box-sizing hace que el tamaño total del elemento se mantiene constante, indepen
 font-family nos va a permitir elegir que tipo de letra queremos aplicar a nuestro texto de la web.
 text-decoration Elimina la decoración de texto predeterminada*/
 * {
-    margin: 0;
+    margin: 10;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
